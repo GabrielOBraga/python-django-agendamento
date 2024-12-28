@@ -166,9 +166,6 @@ coverage erase; coverage run --source=salas,agenda manage.py test; coverage repo
 
 `Maga.postman_collection.json`
 
-## Login
-- Não fiz o login porque não pedia na documentação.
-
 
 ## License - MIT
   
